@@ -24,7 +24,8 @@ pip install flask flask-cors sentence-transformers faiss-cpu numpy
 
 
 2. **Add your employee data (create employees.json)**:
-eg: ```
+eg:
+```
 {
   "employees": [
     {
