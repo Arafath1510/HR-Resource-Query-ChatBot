@@ -48,8 +48,11 @@ python app.py
 
 ##  How To Use
 --> Type your question in the chat box
+
 --> The bot will find matching employees
+
 --> Results show skills, experience, and why they matched
+
 
 
 ## Example Questions to Try ?
@@ -100,8 +103,11 @@ your-project/
 ```
 ## Need Help?
 If something doesn't work:
+
 -> Make sure all packages are installed
+
 -> Check your employees.json file is valid JSON
+
 -> Try stopping and restarting the app
 
 ## Future Ideas
