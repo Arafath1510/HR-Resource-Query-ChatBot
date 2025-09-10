@@ -105,6 +105,7 @@ your-project/
 3. ├── templates/
    3.1     └── index.html    # Web interface
 4. └── README.md             # This file
+5. └── requirements.txt      # Package installer
 ```
 ## Need Help?
 
