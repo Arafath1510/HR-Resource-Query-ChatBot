@@ -1,0 +1,401 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Sharma",
+      "skills": [
+        "Python",
+        "Django",
+        "AWS",
+        "Docker"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "E-commerce Platform",
+        "Internal Tool"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 2,
+      "name": "Rohan Desai",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "AWS"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "Healthcare Portal",
+        "Dashboard"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 3,
+      "name": "Priya Mehta",
+      "skills": [
+        "React Native",
+        "Firebase",
+        "TypeScript"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Fitness App",
+        "E-commerce Mobile App"
+      ],
+      "availability": "on_leave"
+    },
+    {
+      "id": 4,
+      "name": "Vikram Singh",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Medical Diagnosis Platform",
+        "Fraud Detection"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 5,
+      "name": "Neha Kapoor",
+      "skills": [
+        "SQL",
+        "PostgreSQL",
+        "ETL",
+        "Data Warehousing"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Sales Analytics",
+        "Customer Insights"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 6,
+      "name": "Bharath Praveen",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Docker"
+      ],
+      "experience_years": 7,
+      "projects": [
+        "Banking System",
+        "Loan Management"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 7,
+      "name": "Arafath Faruk",
+      "skills": [
+        "Python",
+        "Pandas",
+        "Numpy",
+        "Scikit-learn"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "Churn Prediction",
+        "Marketing Analytics"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 8,
+      "name": "Arjun Reddy",
+      "skills": [
+        "C#",
+        ".NET Core",
+        "Azure",
+        "SQL Server"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Inventory Management",
+        "ERP System"
+      ],
+      "availability": "not_available"
+    },
+    {
+      "id": 9,
+      "name": "Kavya Iyer",
+      "skills": [
+        "Python",
+        "NLP",
+        "Spacy",
+        "Transformers"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Chatbot Development",
+        "Text Classification"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 10,
+      "name": "Manoj Patil",
+      "skills": [
+        "JavaScript",
+        "Angular",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Logistics Dashboard",
+        "Real-time Tracking"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 11,
+      "name": "Sneha Rao",
+      "skills": [
+        "Data Science",
+        "R",
+        "Python",
+        "Statistics"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Risk Analysis",
+        "Market Forecasting"
+      ],
+      "availability": "on_leave"
+    },
+    {
+      "id": 12,
+      "name": "Harsh Gupta",
+      "skills": [
+        "DevOps",
+        "Kubernetes",
+        "Jenkins",
+        "AWS"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "CI/CD Pipelines",
+        "Cloud Migration"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 13,
+      "name": "Ananya Roy",
+      "skills": [
+        "UI/UX",
+        "Figma",
+        "Adobe XD",
+        "HTML",
+        "CSS"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "Mobile App Redesign",
+        "Corporate Website"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 14,
+      "name": "Siddharth Malhotra",
+      "skills": [
+        "Go",
+        "Microservices",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Payment Gateway",
+        "Fraud Detection"
+      ],
+      "availability": "not_available"
+    },
+    {
+      "id": 15,
+      "name": "Pooja Sharma",
+      "skills": [
+        "Python",
+        "Deep Learning",
+        "Computer Vision",
+        "OpenCV"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Image Recognition",
+        "Face Detection"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 16,
+      "name": "Rahul Khanna",
+      "skills": [
+        "React",
+        "Redux",
+        "Node.js",
+        "Express"
+      ],
+      "experience_years": 2,
+      "projects": [
+        "Learning Management System",
+        "Job Portal"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 17,
+      "name": "Meera Pillai",
+      "skills": [
+        "Scala",
+        "Apache Spark",
+        "Kafka"
+      ],
+      "experience_years": 7,
+      "projects": [
+        "Real-time Data Processing",
+        "Streaming Analytics"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 18,
+      "name": "Karan Joshi",
+      "skills": [
+        "PHP",
+        "Laravel",
+        "MySQL"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "CRM System",
+        "Billing Software"
+      ],
+      "availability": "on_leave"
+    },
+    {
+      "id": 19,
+      "name": "Divya Menon",
+      "skills": [
+        "Python",
+        "Flask",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "HR Management System",
+        "API Development"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 20,
+      "name": "Rajat Kapoor",
+      "skills": [
+        "C++",
+        "Embedded Systems",
+        "IoT"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Smart Home Devices",
+        "IoT Security"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 21,
+      "name": "Shreya Das",
+      "skills": [
+        "Python",
+        "PyTorch",
+        "NLP",
+        "LLMs"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Question Answering System",
+        "RAG Pipeline"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 22,
+      "name": "Abhishek Yadav",
+      "skills": [
+        "Java",
+        "Spring",
+        "Hibernate",
+        "Oracle DB"
+      ],
+      "experience_years": 8,
+      "projects": [
+        "Banking Applications",
+        "Transaction Monitoring"
+      ],
+      "availability": "not_available"
+    },
+    {
+      "id": 23,
+      "name": "Isha Singh",
+      "skills": [
+        "Python",
+        "Data Engineering",
+        "Airflow",
+        "Snowflake"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "ETL Pipelines",
+        "Data Lake Development"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 24,
+      "name": "Gaurav Bhatia",
+      "skills": [
+        "Cybersecurity",
+        "Networking",
+        "Firewalls",
+        "SIEM"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Network Security",
+        "Threat Detection"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 25,
+      "name": "Tanya Chawla",
+      "skills": [
+        "Python",
+        "LangChain",
+        "LLMs",
+        "Vector Databases"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "RAG Chatbot",
+        "Knowledge Base Assistant"
+      ],
+      "availability": "available"
+    }
+  ]
+}
