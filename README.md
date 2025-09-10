@@ -30,14 +30,14 @@ eg: ```
     {
       "id": 1,
       "name": "Alice Chen",
-      "skills": ["Python", "Machine Learning", "SQL"],
-      "projects": ["Customer Prediction Model"],
-      "experience_years": 5,
+      "skills": ["Python", "Numpy", "Pandas"," Scikit-learn"],
+      "experience_years": 3,
+      "projects": ["Churn Prediction", "Marketing Analytics"],
       "availability": "available"
     }
 }```
 
-3. **Run the Application**:
+4. **Run the Application**:
 
 python app.py
 
