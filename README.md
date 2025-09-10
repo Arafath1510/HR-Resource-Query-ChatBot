@@ -14,7 +14,7 @@ A simple chatbot that helps you find employees based on their skills, experience
 
 ## What You Need
 - Python 3.9+
-- pip (Python package installer)
+- pip (Python package installer) + install requirements file
 
 ## Quick Setup
 
