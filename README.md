@@ -46,24 +46,19 @@ python app.py
 
 
 
-
 ##  How To Use
-
 --> Type your question in the chat box
-
 --> The bot will find matching employees
-
 --> Results show skills, experience, and why they matched
 
 
 ## Example Questions to Try ?
 "Find React developers"
-
 "Who knows AWS and Docker?"
-
 "Developers with 4+ years experience"
-
 "People who worked on healthcare projects"
+
+
 ## API End Points
 ```http
 GET / - Main chat interface
@@ -76,18 +71,14 @@ POST /chat - Chat with the bot
 ```
 ## How I Built This
  - I used AI tools to help with:
-
 - Setting up the Flask server
-
 - Configuring the search technology (FAISS + sentence transformers)
-
 - Writing documentation
 
 #### The smart parts I built myself:
-
 - The matching logic that finds the right employees
-
 - The response formatting to make answers clear and useful
+
 
 ### Why This Approach ?
 - Fast: No waiting for complex AI models
@@ -108,14 +99,11 @@ your-project/
 5. └── requirements.txt      # Package installer
 ```
 ## Need Help?
-
--> If something doesn't work:
-
+If something doesn't work:
 -> Make sure all packages are installed
-
 -> Check your employees.json file is valid JSON
-
 -> Try stopping and restarting the app
+
 ## Future Ideas
 - Add login for security
 - Include more employee details
