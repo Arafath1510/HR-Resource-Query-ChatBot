@@ -39,7 +39,7 @@ eg: ```
 
 4. **Run the Application**:
 
-python app.py
+      python app.py
 
 4. **Open your browser and go to**: *http://localhost:5000*
 
@@ -56,9 +56,13 @@ python app.py
 
 
 ## Example Questions to Try ?
+
 "Find React developers"
+
 "Who knows AWS and Docker?"
+
 "Developers with 4+ years experience"
+
 "People who worked on healthcare projects"
 
 
